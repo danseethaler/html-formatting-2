@@ -40,6 +40,7 @@ span {
 .right {
     width: 45%;
     vertical-align: top;
+    padding-top: 25px;
 }
 
 img {
